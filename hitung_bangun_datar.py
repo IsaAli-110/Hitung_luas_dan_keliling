@@ -314,9 +314,10 @@ elif menu == "ℹ️ Tentang":
     st.markdown("## Tentang Aplikasi")
     st.write("Aplikasi ini dibuat sebagai proyek tugas Pemrograman Dasar.")
     st.write("**Fitur:**")
-    st.write("- Menghitung Luas & Keliling (2D)")
+    st.write("- Menghitung Luas & Keliling")
     st.write("- Menghitung Volume & Luas Permukaan (3D)")
-    st.write("- Visualisasi objek interaktif")
     st.write("- Pilihan satuan dinamis")
-    
+    st.write("- Visual yang sangat menarik")
+    st.write("- Fungsi semua berfungsi dengan baik")
     st.caption("Dibuat dengan menggunakan Python & Streamlit.")
+
